@@ -1,4 +1,4 @@
-# Using the trapezoidal rule with n equals to 6 to approximate 0 to Pi  sin square xpythusing pyt# Using the trapezoidal rule with n equals to 6 to approximate 0 to Pi  sin square xpythusing python
+# Using the trapezoidal rule with n equals to 6 to approximate 0 to Pi  sin^2 x dx
 
 import numpy as np
 
