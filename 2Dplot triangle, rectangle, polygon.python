@@ -1,0 +1,18 @@
+from pylab import*
+x1=[5,7,6,5]
+y1=[4,4,6,4]
+plt.plot(x1,y1,'black')
+plt.fill(x1,y1,'green')
+x2=[2,10,10,2,2]
+y2=[2,2,8,8,2]
+plt.plot(x2,y2,'black')
+plt.fill(x2,y2,'blue')
+x3=[6,10,8,4,2,6]
+y3=[2,4,7,8,4,2]
+plt.plot(x3,y3,'black')
+plt.fill(x3,y3,'red')
+x4=[0,4,2,0]
+y4=[0,0,4,0]
+plt.plot(x4,y4,'black')
+plt.fill(x4,y4,'grey')
+plt.show()
